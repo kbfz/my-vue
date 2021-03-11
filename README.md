@@ -16,3 +16,7 @@ npm run dev
 ```
 npm run build
 ```
+
+## 项目代码
+* [码云](https://gitee.com/my-projects1/my-vue.git)
+* [GitHub](https://github.com/kbfz/my-vue.git)
